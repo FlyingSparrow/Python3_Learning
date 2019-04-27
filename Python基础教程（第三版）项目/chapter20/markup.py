@@ -50,3 +50,4 @@ handler = HTMLRenderer()
 parser = BasicTextParser(handler)
 
 parser.parse(sys.stdin)
+
